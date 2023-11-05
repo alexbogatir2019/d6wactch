@@ -1,0 +1,51 @@
+.wrapper {
+  margin: 100px 250px;
+}
+
+.title {
+  display: flex;
+  font-size: 18px;
+}
+
+.title-name {
+  margin: 0 0 10px 5px;
+
+}
+
+.title-time-zone {
+  margin-left: 158px;
+  margin-bottom: 10px;
+}
+
+input {
+  margin-right: 30px;
+  font-size: 16px;
+  height: 30px;
+  border: 1px solid black;
+}
+
+.add-clock {
+  height: 30px;
+  width: 120px;
+  border: 1px solid black;
+  font-size: 17px;
+}
+
+.clock-wrapper {
+  margin-top: 50px;
+  display: flex;
+
+}
+
+.no-clocks {
+  opacity: 0.6
+}
+
+.items {
+  font-size: 24px;
+  margin-right: 10px;
+}
+
+.button-delete{
+  cursor: pointer;
+}
